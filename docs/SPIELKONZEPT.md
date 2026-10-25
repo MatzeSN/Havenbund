@@ -10,13 +10,17 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - Setting: die Zeit der Hanse.
 - Ziel: viele Stunden Spielspaß durch Aufbau, Versorgung und wirtschaftliche Entscheidungen.
 
-Die folgenden Abschnitte sind Vorschläge zur gemeinsamen Ausarbeitung, keine bereits bestätigten Anforderungen. Zahlen, Warenketten und Ausbaustufen sind vorläufig.
+- **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
+- **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
+- **S-02 Stadtentwicklung:** Jeder neu gegründete Ort beginnt als Siedlung und entwickelt sich über das Dorf und weitere Stufen bis zur Hansestadt.
+
+Diese Anforderungen sind bestätigt. Die konkrete Warenliste, Rezepte, Zwischenstufen, Aufstiegsbedingungen und technische Umsetzung bleiben Vorschläge. Die folgenden Abschnitte unterscheiden diese Ausgestaltung von den bestätigten Anforderungen.
 
 ## 2. Vorschlag für Welt und Atmosphäre
 
 Eine erfundene Küsten- und Inselwelt, angelehnt an den Ostseeraum um 1400. Lübeck und andere Hansestädte liefern die architektonische Inspiration. Historische Anmutung soll die Spielwelt tragen; eine maßstabgetreue historische Simulation ist nicht vorgesehen.
 
-Der Spieler gründet eine kleine Hafensiedlung. Aus einem Anleger und wenigen Familien entsteht schrittweise eine Handelsstadt mit Werkstätten, Speichern und eigenen Koggen. Später gewinnt die Stadt Einfluss in einem Städtebund.
+Der Spieler beginnt mit einer kleinen Hafensiedlung und kann im Verlauf derselben Partie weitere eigene Orte gründen. Jeder Ort entwickelt sich von der Siedlung über das Dorf bis zur Hansestadt. Als Ausgestaltung wird vorgeschlagen: Aus einem Anleger und wenigen Familien entstehen Handelsstädte mit Werkstätten, Speichern und eigenen Koggen, die später Einfluss in einem Städtebund gewinnen.
 
 Arbeitstitel für einen Untertitel: **Vom Dorf zur Hansestadt**.
 
@@ -35,6 +39,80 @@ Der wiederkehrende Ablauf: Bedarf erkennen, Produktion und Transport planen, bau
 | Städtebund | Beziehungen und gemeinsame Vorhaben schaffen langfristige Ziele | Waren und Schiffe für lokale oder gemeinsame Ziele einsetzen |
 
 Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein aus höheren Preisen oder längeren Wartezeiten. Mögliche spätere Warenketten: Getreide → Mehl → Brot; Flachs → Garn → Leinen; Erz und Holzkohle → Eisen → Werkzeuge. Salz und konservierter Fisch könnten den überregionalen Handel prägen. Historische Details und die Balance dieser Ketten sind noch zu prüfen.
+
+
+### 3.1 Rohstoffe, Materialien und Waren
+
+**Bestätigt (W-01):** Zeittypische Rohstoffe und Materialien sollen gewonnen beziehungsweise hergestellt und gehandelt werden können. Rohstoffe, Zwischenprodukte und fertige Waren gehören zur Wirtschaft.
+
+**Vorschlag für einen ersten Warenkatalog:** Die folgenden Ketten sind vereinfachte Spielrezepte. Nebenprodukte, Hilfsstoffe und genaue Mengen sind noch nicht festgelegt; die historische Einordnung für die gewählte Region und Zeit ist vor der verbindlichen Ausarbeitung zu prüfen.
+
+| Bereich | Vorgeschlagene Rohstoffe und Waren | Beispiel einer Spielkette |
+|---|---|---|
+| Holz und Bau | Baumstämme, Bretter, Balken, Brennholz | Baumstämme → Bretter/Balken |
+| Stein und Backstein | Naturstein, Lehm, Ziegel, Kalkstein, Kalk | Lehm + Brennstoff → Ziegel |
+| Nahrung | Fisch, Salz, Salzfisch, Getreide, Mehl, Brot | Fisch + Salz + Fass → Fass Salzfisch |
+| Landwirtschaft und Brauen | Gerste, Malz, Hopfen, Bier | Gerste → Malz; Malz + Hopfen + Wasser → Bier |
+| Textilien | Flachs, Leinengarn, Leinen, Wolle, Wollgarn, Tuch | Flachs → Leinengarn → Leinen |
+| Metallhandwerk | Eisenerz, Holzkohle, Eisen, Werkzeuge, Nägel | Eisenerz + Holzkohle → Eisen → Werkzeuge/Nägel |
+| Tierische Erzeugnisse | Häute, Leder, Pelze, Wachs, Honig | Häute → Leder → Lederwaren |
+| Hafen und Schiffbau | Hanf, Seile, Segeltuch, Pech, Fässer | Hanf → Seile; Leinen → Segeltuch; Holz → Fässer |
+
+Vorgeschlagene Regeln:
+- Waren haben einen spielerischen Zweck: Versorgung, Bau, Weiterverarbeitung, Schiffbau oder Handel.
+- Nicht jeder Standort bietet alle Rohstoffe. Wald, Böden, Fischgründe, Lehm, Erz und Salzvorkommen schaffen unterschiedliche Standortvorteile.
+- Rohstoffe und Zwischenprodukte sollen ebenso handelbar sein wie fertige Waren. Eine Stadt kann beispielsweise Eisen einführen und daraus Werkzeuge herstellen.
+- Handel ist mit fremden Städten vorgesehen; Transporte zwischen eigenen Städten verbinden deren Wirtschaft.
+- Neue Warenketten werden schrittweise eingeführt. Der erste Prototyp bleibt bei Holz und Fisch.
+
+### 3.2 Mehrere eigene Städte
+
+**Bestätigt (S-01):** Mehrere eigene Städte können in derselben Partie gegründet, behalten und weiterentwickelt werden.
+
+**Vorgeschlagene Ausgestaltung:**
+- Jeder Ort hat eigene Bevölkerung, Gebäude, Warenbestände, Versorgung und Entwicklungsstufe.
+- Waren zwischen Städten müssen tatsächlich transportiert werden; ein gemeinsames unsichtbares Warenlager ist nicht vorgesehen.
+- Ein Gründungsschiff bringt Siedler und Baumaterial an einen geeigneten Standort. Kosten und Voraussetzungen sind noch offen.
+- Städte können sich spezialisieren, beispielsweise auf Landwirtschaft, Metallhandwerk oder Schiffbau.
+- Eine Übersicht zeigt Versorgung, Produktion und Transportbedarf aller eigenen Orte. Ein direkter Wechsel zwischen den Städten hält die Bedienung auf dem Handy übersichtlich.
+- Die erste Stadt bleibt bestehen, wenn eine weitere gegründet wird. Die Orte müssen nicht gleichzeitig aufsteigen.
+- Höchstzahl eigener Städte, Gründung auf derselben Insel und genaue Transportmittel bleiben offen.
+
+### 3.3 Entwicklung von der Siedlung zur Hansestadt
+
+**Bestätigt (S-02):** Siedlung → Dorf → weitere Entwicklungsstufen → Hansestadt.
+
+**Vorgeschlagene vollständige Stufenfolge:**
+
+| Stufe | Charakter | Mögliche Voraussetzungen und neue Möglichkeiten |
+|---|---|---|
+| Siedlung | Erste Familien und einfache Unterkünfte | Holz, Nahrung, grundlegende Wege und Lager |
+| Dorf | Dauerhafte Versorgung und erste Handwerker | Stabile Grundversorgung, Landwirtschaft und lokaler Austausch |
+| Marktflecken | Ein regionaler Handelsort entsteht | Markt, mehrere Handwerke und regelmäßiger Warenaustausch |
+| Stadt | Vielfältige Bevölkerung und ausgebaute Infrastruktur | Anspruchsvollere Versorgung, Verwaltung und öffentliche Gebäude |
+| Handelsstadt | Überregional vernetzte Wirtschaft | Eigene Schiffe, verlässliche Handelsrouten und größere Speicher |
+| Hansestadt | Anerkanntes Mitglied des Städtebundes | Erfüllte Handels- und Versorgungsziele sowie Aufnahme in den Bund |
+
+Diese Stufen sind eine Spielmechanik, keine behauptete historische Standardlaufbahn. Insbesondere wird die Aufnahme in den Bund als zusätzlicher Meilenstein vorgeschlagen, nicht allein als Folge einer Einwohnerzahl.
+
+Weitere Vorschläge:
+- Aufstiege erfordern mehrere erfüllte Bedingungen, nicht nur Wartezeit oder Bevölkerung.
+- Der Spieler sieht erreichte und fehlende Bedingungen und löst einen verfügbaren Aufstieg bewusst aus.
+- Neue Stufen schalten Gebäude, Bedürfnisse und Möglichkeiten frei; bestehende Gebäude und Bestände bleiben erhalten.
+- Ein Dorf darf als spezialisierter Versorgungsort bestehen bleiben. Nicht jeder eigene Ort muss zur Hansestadt wachsen.
+- Bevölkerungsgrenzen, Kosten, Dauer der erforderlichen Versorgung sowie Folgen späterer Versorgungsprobleme bleiben offen.
+
+### 3.4 Spätere Abnahme der bestätigten Anforderungen
+
+1. **W-01:** Rohstoffe können gewonnen, über definierte Rezepte verarbeitet und als Rohstoff, Zwischenprodukt oder fertige Ware gehandelt werden.
+2. **W-01:** Produktion und Handel ziehen erforderliche Waren genau einmal ab und schreiben Ergebnisse beziehungsweise Lieferungen genau einmal gut.
+3. **S-01:** In einer Partie lassen sich mindestens zwei eigene Orte gründen und unabhängig bedienen; der erste bleibt beim Gründen des zweiten erhalten.
+4. **S-01:** Eigene Orte behalten getrennte Bestände und Versorgung; Transporte verbinden sie nachvollziehbar.
+5. **S-02:** Jeder neue Ort beginnt als Siedlung. Der vollständige Aufstieg über Dorf und die später festgelegten Zwischenstufen bis zur Hansestadt ist erreichbar.
+6. **S-02:** Jeder Ort erfüllt seine Aufstiegsbedingungen separat; ein Aufstieg verändert nicht automatisch die Stufen anderer Orte.
+7. Speichern und Laden erhält alle Orte, Entwicklungsstufen und laufenden Transporte.
+
+Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transport und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
 ## 4. Vorschlag für das Spielerlebnis am Handy
 
@@ -66,7 +144,7 @@ Auf einer kleinen Insel einen verständlichen und befriedigenden Versorgungskrei
 - Pause, lokale Speicherung und Wiederherstellung des Spielstands.
 - Vorläufiges Abschlussziel: eine kleine, versorgte Siedlung aufbauen. Konkrete Einwohnerzahl und Dauer werden durch Spieltests bestimmt.
 
-Noch nicht Teil dieser Stufe: mehrere Inseln, Handelsrouten, Diplomatie, Krieg, mehrere Wohnstufen, Onlinefunktionen und Monetarisierung.
+Noch nicht Teil dieser Stufe: mehrere eigene Orte, vollständiger Stadtaufstieg bis zur Hansestadt, mehrere Inseln, Handelsrouten, Diplomatie, Krieg, mehrere Wohnstufen, Onlinefunktionen und Monetarisierung. Mehrere eigene Orte und der vollständige Stadtaufstieg bleiben verbindliche Ziele des Gesamtspiels und werden in späteren Ausbaustufen umgesetzt.
 
 ### Manuelle Abnahme des späteren Prototyps
 
@@ -88,9 +166,9 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 | Stufe | Schwerpunkt | Zu prüfender Nutzen |
 |---|---|---|
 | 1 | Kleine Insel und Grundversorgung | Bauen und Warenflüsse machen auf dem Handy Spaß |
-| 2 | Weitere Bedürfnisse, Handwerk und Wohnentwicklung | Wachstum eröffnet neue Entscheidungen |
-| 3 | Koggen, zweite Insel und Handelsrouten | Lokale Wirtschaft und Seefahrt greifen ineinander |
-| 4 | Handelsstädte, Privilegien und gemeinsame Vorhaben | Der namensgebende Bund wird spielerisch erlebbar |
+| 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
+| 3 | Weitere eigene Orte gründen, Koggen und Handelsrouten | Mehrere getrennte Stadtwirtschaften greifen ineinander |
+| 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
 
 Jede Stufe soll einzeln spielbar sein. Der Umfang wird nach Spieltests angepasst.
@@ -104,7 +182,8 @@ Jede Stufe soll einzeln spielbar sein. Der Umfang wird nach Spieltests angepasst
 - Plattform: Android zuerst, zusätzlich iOS oder zunächst ein im Browser spielbarer Prototyp?
 - Technik: Engine, Datenmodell und Auslieferung nach Festlegung von Perspektive und Zielplattform.
 - Spielmodus: friedlicher Aufbau, wirtschaftliche Konkurrenz und/oder spätere Konflikte?
-- Wirtschaft: Detailgrad der Arbeitskräfte, Wohnstufen, Geldkreisläufe und Transportsteuerung.
+- Wirtschaft: verbindlicher Warenkatalog, historische Prüfung, Rezepte, Arbeitskräfte, Wohnstufen, Geldkreisläufe und Transportsteuerung.
+- Städte: konkrete Zwischenstufen und Aufstiegsbedingungen, Gründungskosten, maximale Anzahl eigener Orte und mögliche Gründungsstandorte.
 - Offlinebetrieb, Speicherplätze, Sicherung und Übertragung von Spielständen.
 - Geschäftsmodell, Veröffentlichung, Namensverfügbarkeit und Rechte an späteren Grafiken, Musik und Schriften.
 
