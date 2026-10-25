@@ -6,7 +6,11 @@ Aus einer kleinen Hafensiedlung soll eine lebendige Handelsstadt entstehen. Vers
 
 ## Projektstand
 
-**Konzeptphase.** Name, Hanse-Setting und das Ziel eines langfristig motivierenden Handy-Aufbauspiels stehen fest. Es gibt noch keine spielbare Version und noch keine festgelegte Engine.
+**Spielbarer Browser-Prototyp 0.1.** Drei Siedlungen mit unterschiedlichen Ressourcen, Produktionsketten, feste See- und Landrouten, Futterverbrauch, Tutorial, Dorfaufstieg und lokaler Spielstand sind umgesetzt. Die technische Grundlage ist derzeit HTML/CSS/JavaScript ohne Framework.
+
+[Prototyp spielen](https://havenbund-prototyp.bubblycrane29.chatgpt.site/) · private Vorschau, Anmeldung mit dem zugehörigen ChatGPT-Konto erforderlich.
+
+[Quellcode, lokaler Start und Abnahmecheckliste](prototype/README.md). Zwölf automatisierte Simulationstests bestanden. Browserprüfung: Start, Bau/Produktion, Tutorialfortschritt, Speichern/Neuladen, Ortsgründung und Routenanlage. Reale Mobilgeräte und Safari noch ungeprüft.
 
 Das [Spielkonzept](docs/SPIELKONZEPT.md) trennt bestätigte Eckpunkte von Vorschlägen und offenen Entscheidungen. Es enthält die vorgeschlagene Welt, den Spielkern, eine erste spielbare Ausbaustufe und deren spätere Abnahmecheckliste.
 
@@ -14,4 +18,4 @@ Die [Recherche zu Hansezeit, Alltag und Wirtschaft](docs/HANSE_WIRTSCHAFT_UND_AL
 
 ## Nächster Schritt
 
-Welt, Spielerrolle und visuelle Richtung gemeinsam konkretisieren; anschließend den Prototyp und seine technische Grundlage festlegen.
+Prototyp ausprobieren und Spielgefühl, Bedienung und Produktionsbalance bewerten. Danach weitere Stadtstufen, Handelspreise, Pferdezucht und vollständige historische Produktionsketten ausbauen.
