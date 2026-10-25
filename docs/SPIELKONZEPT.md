@@ -11,6 +11,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - Ziel: viele Stunden Spielspaß durch Aufbau, Versorgung und wirtschaftliche Entscheidungen.
 
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
+- **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
 - **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
 - **S-02 Stadtentwicklung:** Jeder neu gegründete Ort beginnt als Siedlung und entwickelt sich über das Dorf und weitere Stufen bis zur Hansestadt.
 
@@ -60,10 +61,34 @@ Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein au
 
 Vorgeschlagene Regeln:
 - Waren haben einen spielerischen Zweck: Versorgung, Bau, Weiterverarbeitung, Schiffbau oder Handel.
-- Nicht jeder Standort bietet alle Rohstoffe. Wald, Böden, Fischgründe, Lehm, Erz und Salzvorkommen schaffen unterschiedliche Standortvorteile.
+- Die bestätigte Standortbindung der Rohstoffe (W-02) wird im folgenden Abschnitt konkretisiert.
 - Rohstoffe und Zwischenprodukte sollen ebenso handelbar sein wie fertige Waren. Eine Stadt kann beispielsweise Eisen einführen und daraus Werkzeuge herstellen.
 - Handel ist mit fremden Städten vorgesehen; Transporte zwischen eigenen Städten verbinden deren Wirtschaft.
 - Neue Warenketten werden schrittweise eingeführt. Der erste Prototyp bleibt bei Holz und Fisch.
+
+### 3.1.1 Standortgebundene Ressourcen
+
+**Bestätigt (W-02):** Jeder Ort besitzt ein standortspezifisches Ressourcenprofil. Vorkommen unterscheiden sich zwischen Orten und begrenzen, welche Rohstoffe dort gewonnen werden können. Fisch, Salz und Lehm sind ausdrücklich Beispiele für diese räumliche Verteilung. Dies gilt bereits für Siedlungen und bleibt bei ihrer Entwicklung zur Stadt relevant.
+
+**Vorgeschlagene Ausgestaltung:**
+- Das Umland bestimmt die Vorkommen; ein Stadtaufstieg erzeugt keine zuvor fehlenden Rohstoffquellen.
+- Ein Ort darf mehrere passende Ressourcen besitzen. Es ist weder genau eine Ressource je Ort noch die weltweite Einzigartigkeit eines Rohstoffs festgelegt.
+- Gewinnungsbetriebe brauchen ein geeignetes örtliches Vorkommen. Eine Küstenlage allein garantiert beispielsweise noch keinen nutzbaren Fischgrund.
+- Verarbeitung ist von Gewinnung getrennt: Eine Stadt ohne Salzvorkommen kann eingeführtes Salz für die Fischverarbeitung nutzen.
+- Fehlende Rohstoffe lassen sich aus eigenen Orten oder durch Handel beziehen. Waren müssen ihren Zielort erreichen, bevor sie dort verarbeitet oder verbaut werden können.
+- Vor einer Gründung zeigt eine Standortübersicht die bekannten Ressourcen und fehlenden Voraussetzungen.
+- Der Start und die frühe Expansion müssen ohne gegenseitig blockierende Voraussetzungen möglich sein. Startvorräte oder erreichbare Handelsmöglichkeiten überbrücken anfänglich fehlende Ressourcen.
+- Eine Stadt soll auch durch verlässliche Einfuhren aufsteigen können; vollständige lokale Selbstversorgung ist kein Aufstiegsziel.
+
+**Beispiel für ein verbundenes Versorgungsnetz, keine feste Kartenvorgabe:**
+
+| Ort | Lokales Vorkommen | Möglicher Beitrag | Möglicher Bezug |
+|---|---|---|---|
+| Fischersiedlung | Fischgründe | Fisch, später Salzfisch mit eingeführtem Salz und Fässern | Salz, Fässer und Baustoffe |
+| Salzsiedlung | Salzvorkommen beziehungsweise Sole | Salz | Nahrung und Bau- beziehungsweise Brennmaterial |
+| Lehmsiedlung | Lehm | Lehm, später Ziegel mit verfügbarem Brennstoff | Nahrung und Brennstoff |
+
+Noch offen: genaue Verteilung, Anzahl und Ergiebigkeit der Vorkommen, Erschöpfung beziehungsweise Regeneration sowie Sichtbarkeit vor der Erkundung. Die drei Beispielorte legen weder eine bestimmte Anzahl von Städten noch eine ausschließliche Warenliste fest.
 
 ### 3.2 Mehrere eigene Städte
 
@@ -110,7 +135,10 @@ Weitere Vorschläge:
 4. **S-01:** Eigene Orte behalten getrennte Bestände und Versorgung; Transporte verbinden sie nachvollziehbar.
 5. **S-02:** Jeder neue Ort beginnt als Siedlung. Der vollständige Aufstieg über Dorf und die später festgelegten Zwischenstufen bis zur Hansestadt ist erreichbar.
 6. **S-02:** Jeder Ort erfüllt seine Aufstiegsbedingungen separat; ein Aufstieg verändert nicht automatisch die Stufen anderer Orte.
-7. Speichern und Laden erhält alle Orte, Entwicklungsstufen und laufenden Transporte.
+7. Speichern und Laden erhält alle Orte, Entwicklungsstufen, Ressourcenprofile und laufenden Transporte.
+8. **W-02:** Eine Testkarte enthält Orte mit unterschiedlichen Vorkommen, beispielsweise Fisch, Salz und Lehm. Rohstoffgewinnung ist nur am jeweils geeigneten Standort möglich.
+9. **W-02, vorgeschlagene Ausgestaltung:** Ein Ort ohne Salzvorkommen kann kein Salz gewinnen, aber angeliefertes Salz verarbeiten. Ein Stadtaufstieg fügt kein Salzvorkommen hinzu.
+10. **W-02, vorgeschlagene Ausgestaltung:** Die Versorgung zwischen spezialisierten Orten funktioniert; fehlende lokale Rohstoffe verhindern bei ausreichenden Einfuhren nicht grundsätzlich den Stadtaufstieg.
 
 Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transport und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
@@ -167,7 +195,7 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 |---|---|---|
 | 1 | Kleine Insel und Grundversorgung | Bauen und Warenflüsse machen auf dem Handy Spaß |
 | 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
-| 3 | Weitere eigene Orte gründen, Koggen und Handelsrouten | Mehrere getrennte Stadtwirtschaften greifen ineinander |
+| 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, Koggen und Handelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
 
