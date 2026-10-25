@@ -13,6 +13,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
 - **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
 - **W-03 Landwirtschaft und Brotversorgung:** Der Bauernhof liefert sowohl Futter für Pferde als auch Getreide für die Lebensmittelversorgung. Die Brotkette lautet: Bauernhof → Getreide → Mühle → Mehl → Bäckerei → Brot für die Bevölkerung.
+- **W-04 Bier:** Bier gehört verbindlich zu den herstellbaren, lagerbaren und handelbaren Waren. Rezept, Gebäudeaufteilung und Bedeutung für die Bedürfnisse der Bevölkerung bleiben auszugestalten.
 - **H-01 Feste Handelsrouten:** Der Spieler kann dauerhafte, wiederkehrend ausgeführte Handelsrouten zwischen Orten einrichten, sowohl per Schiff als auch über Land.
 - **H-02 Fuhrwerke und Pferdeversorgung:** Fuhrwerke benötigen Pferde, die fortlaufend Futter brauchen. Wagen werden aus Holz hergestellt. Eine spätere Verbesserung durch zusätzliche Metallteile ist eine vorgemerkte Option, noch keine verbindliche Ausbaustufe.
 - **E-01 Geführter Erststart:** Neue Spieler erhalten beim ersten Spielstart eine schrittweise geführte Einführung in Bedienung und Aufbau ihrer ersten Siedlung.
@@ -20,7 +21,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
 - **S-02 Stadtentwicklung:** Jeder neu gegründete Ort beginnt als Siedlung und entwickelt sich über das Dorf und weitere Stufen bis zur Hansestadt.
 
-Diese Anforderungen sind bestätigt. Die konkrete Warenliste, Rezepte, Zwischenstufen, Aufstiegsbedingungen und technische Umsetzung bleiben Vorschläge. Die folgenden Abschnitte unterscheiden diese Ausgestaltung von den bestätigten Anforderungen.
+Diese Anforderungen sind bestätigt. Die darüber hinausgehende Warenliste, konkrete Rezepte, Zwischenstufen, Aufstiegsbedingungen und technische Umsetzung bleiben Vorschläge. Die folgenden Abschnitte unterscheiden diese Ausgestaltung von den bestätigten Anforderungen.
 
 ## 2. Vorschlag für Welt und Atmosphäre
 
@@ -62,7 +63,7 @@ Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein au
 | Holz und Bau | Baumstämme, Bretter, Balken, Brennholz | Baumstämme → Bretter/Balken |
 | Stein und Backstein | Naturstein, Lehm, Ziegel, Kalkstein, Kalk | Lehm + Brennstoff → Ziegel |
 | Nahrung | Fisch, Salz, Salzfisch, Getreide, Mehl, Brot | Getreide → Mehl → Brot (W-03); Fisch + Salz + Fass → Fass Salzfisch |
-| Landwirtschaft und Brauen | Gerste, Malz, Hopfen, Bier | Gerste → Malz; Malz + Hopfen + Wasser → Bier |
+| Landwirtschaft und Brauen | Bier bestätigt (W-04); Gerste, Malz und Hopfen als vorgeschlagene Vorprodukte | Gerste → Malz; Malz + Hopfen + Wasser → Bier |
 | Textilien | Flachs, Leinengarn, Leinen, Wolle, Wollgarn, Tuch | Flachs → Leinengarn → Leinen |
 | Metallhandwerk | Eisenerz, Holzkohle, Eisen, Werkzeuge, Nägel | Eisenerz + Holzkohle → Eisen → Werkzeuge/Nägel |
 | Tierische Erzeugnisse | Häute, Leder, Pelze, Wachs, Honig | Häute → Leder → Lederwaren |
@@ -76,7 +77,27 @@ Vorgeschlagene Regeln:
 - Handel ist mit fremden Städten vorgesehen; Transporte zwischen eigenen Städten verbinden deren Wirtschaft.
 - Neue Warenketten werden schrittweise eingeführt. Der erste Prototyp bleibt bei Holz und Fisch.
 
-### 3.1.1 Standortgebundene Ressourcen
+### 3.1.1 Bier und Brauwirtschaft
+
+**Bestätigt (W-04):** Bier wird als eigene Ware hergestellt, gelagert und gehandelt. Es war bislang im Warenkatalog vorgeschlagen und ist nun verbindlicher Bestandteil der Wirtschaft.
+
+**Vorgeschlagene Produktionskette:**
+- Bauernhof: Gerste anbauen.
+- Mälzerei: Gerste zu Malz verarbeiten.
+- Hopfenanbau auf geeigneten Flächen: Hopfen erzeugen.
+- Brauerei: Malz, Hopfen und Wasser zu Bier verarbeiten; konkrete Mengen, Brennstoff und weitere Hilfsstoffe bleiben offen.
+- Optional Küferei: Fässer für Lagerung und Transport bereitstellen. Ob Fässer verbraucht oder wiederverwendet werden, ist noch festzulegen.
+
+Die Kette ist ein vereinfachtes Spielrezept. Eine eigene Mälzerei ist ein Vorschlag; für einen leichteren Einstieg könnte das Mälzen zunächst Teil der Brauerei sein.
+
+**Vorgeschlagener Nutzen und Einbindung:**
+- Bier kann ein späteres Bevölkerungsbedürfnis erfüllen, beispielsweise über eine Schenke. Freischaltung, Verbrauch und Wirkung auf Zufriedenheit oder Stadtaufstieg sind noch nicht festgelegt.
+- Bier und seine Vorprodukte können über die bestehenden Handelsrouten transportiert werden.
+- Standortgebundener Anbau gilt auch für Gerste und Hopfen. Eine Brauerei kann mit eingeführten Zutaten arbeiten; nicht jeder Brauort benötigt eigene Anbauflächen.
+- Die Landwirtschaft bedient damit Brotversorgung, Pferdefutter und Brauwirtschaft. Die vorgeschlagene Flächenverteilung schafft eine zusätzliche Entscheidung über die Verwendung geeigneter Böden und Arbeitskräfte.
+- Ein späterer Tutorialschritt erklärt die Braukette und ihre Versorgung, sobald sie freigeschaltet wird. Der erste Prototyp bleibt bei Holz und Fisch.
+
+### 3.1.2 Standortgebundene Ressourcen
 
 **Bestätigt (W-02):** Jeder Ort besitzt ein standortspezifisches Ressourcenprofil. Vorkommen unterscheiden sich zwischen Orten und begrenzen, welche Rohstoffe dort gewonnen werden können. Fisch, Salz und Lehm sind ausdrücklich Beispiele für diese räumliche Verteilung. Dies gilt bereits für Siedlungen und bleibt bei ihrer Entwicklung zur Stadt relevant.
 
@@ -218,7 +239,10 @@ Dies sind vereinfachte Spielrezepte, keine vollständige historische Stückliste
 22. **W-03:** Derselbe Gebäudetyp Bauernhof unterstützt Lebensmittel- und Futterproduktion. Eine fehlende Getreidelieferung stoppt die Mühle nach Verbrauch ihres Vorrats, eine fehlende Mehllieferung entsprechend die Bäckerei.
 23. **W-03, vorgeschlagene Ausgestaltung:** Flächen und Waren werden nicht doppelt genutzt oder gebucht. Landwirtschaftliche Erzeugnisse können über Handelsrouten andere Orte versorgen.
 
-Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln, Pferdehaltung, Flächenaufteilung und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
+24. **W-04:** Bier kann nach einem festgelegten Rezept hergestellt, im Lager geführt und gehandelt werden. Herstellung und Lieferung verändern die Bestände nachvollziehbar, ohne Verdopplung.
+25. **W-04, vorgeschlagene Ausgestaltung:** Eine Brauerei verarbeitet tatsächlich angelieferte Zutaten auch ohne lokale Anbauflächen. Fehlen Zutaten, stoppt die Produktion nach Verbrauch ihrer Vorräte mit verständlichem Hinweis.
+
+Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln, Pferdehaltung, Flächenaufteilung, Brauwirtschaft und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
 ## 4. Spielerlebnis am Handy
 
@@ -326,7 +350,7 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 | Stufe | Schwerpunkt | Zu prüfender Nutzen |
 |---|---|---|
 | 1 | Kleine Insel, Grundversorgung, geführter Erststart und erstes Tutorialkapitel | Neue Spieler lernen Bauen und Warenflüsse direkt am Handy |
-| 2 | Bauernhof, Mühle und Bäckerei, weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
+| 2 | Bauernhof, Mühle und Bäckerei, Brauwirtschaft mit Bier, weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
 | 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, Fuhrwerkbau und Pferdeversorgung, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
