@@ -6,7 +6,9 @@ Aus einer kleinen Hafensiedlung soll eine lebendige Handelsstadt entstehen. Vers
 
 ## Projektstand
 
-**Spielbarer Browser-Prototyp 0.1.** Drei Siedlungen mit unterschiedlichen Ressourcen, Produktionsketten, feste See- und Landrouten, Futterverbrauch, Tutorial, Dorfaufstieg und lokaler Spielstand sind umgesetzt. Die technische Grundlage ist derzeit HTML/CSS/JavaScript ohne Framework.
+**Android-Prototyp 0.1.0 als APK gebaut.** Der Spielkern läuft offline in einer Android-WebView (ab Android 8), ohne Anmeldung und Internetberechtigung. [Android-Build und Installations-/Testanleitung](prototype/android/README.md). APK-Signatur und Paketaufbau geprüft; Gerätetest noch offen.
+
+**Zusätzliche Browser-Vorschau 0.1.** Drei Siedlungen mit unterschiedlichen Ressourcen, Produktionsketten, feste See- und Landrouten, Futterverbrauch, Tutorial, Dorfaufstieg und lokaler Spielstand sind umgesetzt. Die technische Grundlage ist derzeit HTML/CSS/JavaScript ohne Framework.
 
 [Prototyp spielen](https://havenbund-prototyp.bubblycrane29.chatgpt.site/) · private Vorschau, Anmeldung mit dem zugehörigen ChatGPT-Konto erforderlich.
 
