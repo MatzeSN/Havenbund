@@ -10,6 +10,8 @@ Aus einer kleinen Hafensiedlung soll eine lebendige Handelsstadt entstehen. Vers
 
 Das [Spielkonzept](docs/SPIELKONZEPT.md) trennt bestätigte Eckpunkte von Vorschlägen und offenen Entscheidungen. Es enthält die vorgeschlagene Welt, den Spielkern, eine erste spielbare Ausbaustufe und deren spätere Abnahmecheckliste.
 
+Die [Recherche zu Hansezeit, Alltag und Wirtschaft](docs/HANSE_WIRTSCHAFT_UND_ALLTAG.md) ergänzt historische Quellen, 23 vorgeschlagene Produktionslinien, regionale Ressourcenprofile und konkrete Handelsströme. Historische Befunde und Spielvereinfachungen sind getrennt gekennzeichnet.
+
 ## Nächster Schritt
 
 Welt, Spielerrolle und visuelle Richtung gemeinsam konkretisieren; anschließend den Prototyp und seine technische Grundlage festlegen.
