@@ -12,6 +12,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
 - **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
+- **W-03 Landwirtschaft und Brotversorgung:** Der Bauernhof liefert sowohl Futter für Pferde als auch Getreide für die Lebensmittelversorgung. Die Brotkette lautet: Bauernhof → Getreide → Mühle → Mehl → Bäckerei → Brot für die Bevölkerung.
 - **H-01 Feste Handelsrouten:** Der Spieler kann dauerhafte, wiederkehrend ausgeführte Handelsrouten zwischen Orten einrichten, sowohl per Schiff als auch über Land.
 - **H-02 Fuhrwerke und Pferdeversorgung:** Fuhrwerke benötigen Pferde, die fortlaufend Futter brauchen. Wagen werden aus Holz hergestellt. Eine spätere Verbesserung durch zusätzliche Metallteile ist eine vorgemerkte Option, noch keine verbindliche Ausbaustufe.
 - **E-01 Geführter Erststart:** Neue Spieler erhalten beim ersten Spielstart eine schrittweise geführte Einführung in Bedienung und Aufbau ihrer ersten Siedlung.
@@ -43,12 +44,16 @@ Der wiederkehrende Ablauf: Bedarf erkennen, Produktion und Transport planen, bau
 | Seefahrt | Weitere Inseln und Häfen eröffnen neue Waren | Eigenproduktion, Außenposten oder Einkauf wählen |
 | Städtebund | Beziehungen und gemeinsame Vorhaben schaffen langfristige Ziele | Waren und Schiffe für lokale oder gemeinsame Ziele einsetzen |
 
-Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein aus höheren Preisen oder längeren Wartezeiten. Mögliche spätere Warenketten: Getreide → Mehl → Brot; Flachs → Garn → Leinen; Erz und Holzkohle → Eisen → Werkzeuge. Salz und konservierter Fisch könnten den überregionalen Handel prägen. Historische Details und die Balance dieser Ketten sind noch zu prüfen.
+Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein aus höheren Preisen oder längeren Wartezeiten. Die Brotkette Bauernhof → Getreide → Mühle → Mehl → Bäckerei → Brot ist bestätigt (W-03). Weitere vorgeschlagene Warenketten: Flachs → Garn → Leinen; Erz und Holzkohle → Eisen → Werkzeuge. Salz und konservierter Fisch könnten den überregionalen Handel prägen. Historische Details und die Balance dieser Ketten sind noch zu prüfen.
 
 
 ### 3.1 Rohstoffe, Materialien und Waren
 
 **Bestätigt (W-01):** Zeittypische Rohstoffe und Materialien sollen gewonnen beziehungsweise hergestellt und gehandelt werden können. Rohstoffe, Zwischenprodukte und fertige Waren gehören zur Wirtschaft.
+
+**Bestätigt (W-03):** Der Bauernhof ist die Grundlage für Pferdefutter und Brotversorgung. Er liefert Getreide an die Mühle; deren Mehl versorgt die Bäckerei. Die Gebäude können über lokale Wege oder über Handelsrouten zwischen verschiedenen Orten verbunden sein. Mengen, zusätzliche Backzutaten und Brennstoffbedarf sind noch auszuarbeiten.
+
+**Vorschläge zur landwirtschaftlichen Ausgestaltung:** Der Spieler könnte geeignete Flächen auf Brotgetreide und Futteranbau verteilen. Beide Bereiche beanspruchen Fläche und Arbeitskräfte, sodass eine größere Transportflotte mit dem Ausbau der Nahrungsversorgung abgestimmt werden muss. Getreide, Mehl und Pferdefutter bleiben unterscheidbare Waren; die vorgeschlagene Zusammenfassung von Heu und Hafer zu Pferdefutter ersetzt nicht die Brotkette. Weiterverarbeitung bleibt auch mit eingeführtem Getreide oder Mehl möglich.
 
 **Vorschlag für einen ersten Warenkatalog:** Die folgenden Ketten sind vereinfachte Spielrezepte. Nebenprodukte, Hilfsstoffe und genaue Mengen sind noch nicht festgelegt; die historische Einordnung für die gewählte Region und Zeit ist vor der verbindlichen Ausarbeitung zu prüfen.
 
@@ -56,7 +61,7 @@ Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein au
 |---|---|---|
 | Holz und Bau | Baumstämme, Bretter, Balken, Brennholz | Baumstämme → Bretter/Balken |
 | Stein und Backstein | Naturstein, Lehm, Ziegel, Kalkstein, Kalk | Lehm + Brennstoff → Ziegel |
-| Nahrung | Fisch, Salz, Salzfisch, Getreide, Mehl, Brot | Fisch + Salz + Fass → Fass Salzfisch |
+| Nahrung | Fisch, Salz, Salzfisch, Getreide, Mehl, Brot | Getreide → Mehl → Brot (W-03); Fisch + Salz + Fass → Fass Salzfisch |
 | Landwirtschaft und Brauen | Gerste, Malz, Hopfen, Bier | Gerste → Malz; Malz + Hopfen + Wasser → Bier |
 | Textilien | Flachs, Leinengarn, Leinen, Wolle, Wollgarn, Tuch | Flachs → Leinengarn → Leinen |
 | Metallhandwerk | Eisenerz, Holzkohle, Eisen, Werkzeuge, Nägel | Eisenerz + Holzkohle → Eisen → Werkzeuge/Nägel |
@@ -161,7 +166,9 @@ Noch offen: konkrete Schiffs- und Fuhrwerkstypen, Anschaffungs- und Betriebskost
 
 | Betrieb | Aufgabe | Voraussetzungen beziehungsweise Ergebnis |
 |---|---|---|
-| Bauernhof mit Wiesen und Feldern | Futter erzeugen | Geeignete Flächen → Heu und Hafer als vorgeschlagene Futterwaren |
+| Bauernhof mit Wiesen und Feldern | Getreide für die Brotversorgung und Futter für Pferde erzeugen | Geeignete Felder → Getreide für die Mühle; Wiesen/Futterflächen → Pferdefutter |
+| Mühle | Getreide mahlen | Getreide vom Bauernhof oder aus Einfuhren → Mehl |
+| Bäckerei | Brot für die Bevölkerung backen | Mehl aus der Mühle oder aus Einfuhren → Brot; weitere Zutaten und Brennstoff noch offen |
 | Pferdehof mit Stall und Weide | Pferde halten und züchten | Anfänglicher Zuchtbestand, Platz, Futter und Zeit → zusätzliche Pferde |
 | Stellmacherei | Wagen herstellen | Holz in Form von Brettern/Balken → einfacher Wagen |
 | Fuhrhof | Wagen und Pferde zu einem Gespann zusammenstellen, versorgen und Routen zuweisen | Freier Wagen + verfügbare Pferde + Futtervorrat → einsatzfähiges Fuhrwerk |
@@ -170,7 +177,7 @@ Noch offen: konkrete Schiffs- und Fuhrwerkstypen, Anschaffungs- und Betriebskost
 Dies sind vereinfachte Spielrezepte, keine vollständige historische Stückliste. Weitere Materialien wie Geschirr, genaue Mengen und Werkzeuge sind noch festzulegen.
 
 **Vorgeschlagene Spielregeln:**
-- Ein Bauernhof kann anfangs die Futterwirtschaft übernehmen; Pferdehaltung und Zucht erhalten einen eigenen Pferdehof. Ob beide später als Ausbauten eines Hofs oder getrennte Gebäude erscheinen, bleibt offen.
+- Der Bauernhof versorgt sowohl die Brotkette als auch die Pferdehaltung (W-03). Als Ausgestaltung erhalten Pferdehaltung und Zucht einen eigenen Pferdehof. Ob beide später als Ausbauten eines Hofs oder getrennte Gebäude erscheinen, bleibt offen.
 - Pferde werden gehalten und gezüchtet, nicht allein aus Futter erzeugt. Erste Tiere kommen aus einem Startbestand oder durch Einkauf; der Zugang muss vor der ersten notwendigen Landroute möglich sein.
 - Pferde bleiben als Tiere einem Gespann zugeordnet und werden nicht je Lieferung verbraucht. Dasselbe Pferd und derselbe Wagen können nicht gleichzeitig mehreren Fuhrwerken zugewiesen werden.
 - Futter wird fortlaufend für gehaltene Pferde benötigt, auch wenn sie gerade keiner aktiven Route zugewiesen sind. Eine pausierte Gesamtsimulation verbraucht kein Futter.
@@ -207,7 +214,11 @@ Dies sind vereinfachte Spielrezepte, keine vollständige historische Stückliste
 19. **H-02, vorgeschlagene Ausgestaltung:** Fehlendes Futter verhindert neue Abfahrten mit verständlichem Hinweis. Nach tatsächlicher Nachlieferung kann die Route fortgesetzt werden.
 20. **H-02, vorgeschlagene Ausgestaltung:** Die erste Landroute ist ohne zirkuläre Abhängigkeit bei Pferde- und Futterbeschaffung erreichbar.
 
-Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln, Pferdehaltung und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
+21. **W-03:** Getreide vom Bauernhof wird in einer Mühle zu Mehl und anschließend in einer Bäckerei zu Brot verarbeitet; das Brot steht der Bevölkerung zur Verfügung.
+22. **W-03:** Derselbe Gebäudetyp Bauernhof unterstützt Lebensmittel- und Futterproduktion. Eine fehlende Getreidelieferung stoppt die Mühle nach Verbrauch ihres Vorrats, eine fehlende Mehllieferung entsprechend die Bäckerei.
+23. **W-03, vorgeschlagene Ausgestaltung:** Flächen und Waren werden nicht doppelt genutzt oder gebucht. Landwirtschaftliche Erzeugnisse können über Handelsrouten andere Orte versorgen.
+
+Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln, Pferdehaltung, Flächenaufteilung und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
 ## 4. Spielerlebnis am Handy
 
@@ -235,6 +246,7 @@ Tutorial und geführter Erststart sind verbindlich (E-01, E-02). Die weiteren Be
 | Menschen versorgen | Wohnraum und Fischversorgung aufbauen | Bedürfnisse, Verbrauch und Versorgung erkennen |
 | Engpass beheben | Einen fehlenden Weg oder Rohstoff erkennen und die Ursache beseitigen | Gebäudeinformationen und Hinweise nutzen |
 | Selbstständig weiterspielen | Speichern, pausieren und die nächsten Ziele ansehen | Sicherer Übergang zum freien Spiel |
+| Brotversorgung aufbauen | Bauernhof, Mühle und Bäckerei verbinden und die Verarbeitung verfolgen | Landwirtschaft für Bevölkerung und Pferde unterscheiden |
 | Zum Dorf wachsen | Aufstiegsbedingungen prüfen und den ersten Ortsaufstieg auslösen | Entwicklung der Siedlung verstehen |
 | Einen weiteren Ort gründen | Einen Standort mit ergänzenden Ressourcen wählen und versorgen | Spezialisierung und getrennte Stadtbestände verstehen |
 | Eine Schiffsroute einrichten | Haltepunkte, Waren und ein Schiff zuweisen; eine Lieferung verfolgen | Wiederkehrenden Seetransport einrichten |
@@ -314,7 +326,7 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 | Stufe | Schwerpunkt | Zu prüfender Nutzen |
 |---|---|---|
 | 1 | Kleine Insel, Grundversorgung, geführter Erststart und erstes Tutorialkapitel | Neue Spieler lernen Bauen und Warenflüsse direkt am Handy |
-| 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
+| 2 | Bauernhof, Mühle und Bäckerei, weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
 | 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, Fuhrwerkbau und Pferdeversorgung, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
