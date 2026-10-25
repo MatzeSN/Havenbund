@@ -371,6 +371,26 @@ Jede Stufe soll einzeln spielbar sein. Neue Mechaniken erhalten passende Tutoria
 - Offlinebetrieb, Speicherplätze, Sicherung und Übertragung von Spielständen.
 - Geschäftsmodell, Veröffentlichung, Namensverfügbarkeit und Rechte an späteren Grafiken, Musik und Schriften.
 
-## 8. Nächster gemeinsamer Schritt
+## 8. Historische Recherche und Wirtschaftsentwurf
+
+Die ausführliche [Recherche zu Hansezeit, Alltag und Wirtschaft](HANSE_WIRTSCHAFT_UND_ALLTAG.md) ergänzt dieses Konzept. Sie enthält Quellen, 23 vorgeschlagene Produktionslinien, regionale Ressourcenprofile, acht konkrete Handelsrouten und eine gestufte Einführung.
+
+Die recherchierten Grundlagen werden ausdrücklich von neuen Spielvorschlägen getrennt. Bestehende bestätigte Anforderungen bleiben erhalten; die zusätzlichen Waren und Detailregeln sind noch nicht pauschal beschlossen.
+
+Wichtige Präzisierungen für die weitere Ausarbeitung:
+- Salzhering und Stockfisch erhalten unterschiedliche Herstellungs- und Standortbedingungen.
+- Die Saline braucht Sole und Brennstoff; ein Salzvorkommen erzeugt kein fertiges Salz ohne Verarbeitung.
+- Landwirtschaft trägt Brotversorgung, Gemüse/Hülsenfrüchte, Pferdefutter und Brauwirtschaft.
+- Eine Mühle kann Mehl herstellen und Malz schroten; beide Aufgaben teilen sich ihre Kapazität.
+- Bier ist nicht nur als Luxusgut zu betrachten. Seine genaue Rolle in den Einwohnerbedürfnissen bleibt offen.
+- Wasser bleibt eine eigene Versorgung; es wird nicht durch die pauschale Behauptung ersetzt, im Mittelalter habe niemand Wasser getrunken.
+- Kleidung, Keramik und öffentliche Dienste ergänzen das Alltagsbild.
+- Hafenumschlag und Verarbeitung erlauben auch ressourcenarmen Orten eine wirtschaftliche Rolle.
+- Flusskähne und ein späteres Kanalprojekt sind zusätzliche Optionen, keine bereits beschlossenen Pflichtfunktionen.
+- Holzwagen ohne separat abgerechnetes Eisen und der Aufstieg zur Hansestadt sind Spielabstraktionen, keine historischen Standardentwicklungen.
+
+Die Forschung empfiehlt eine feinere Ausbaureihenfolge A–F. Diese ersetzt die bisherige Roadmap noch nicht verbindlich. Historische Rezeptdetails und die Wirtschaftsbalance müssen vor Umsetzung gezielt ausgearbeitet beziehungsweise getestet werden.
+
+## 9. Nächster gemeinsamer Schritt
 
 Zuerst Welt, Spielerrolle und visuelle Richtung konkretisieren. Anschließend die erste Ausbaustufe verbindlich beschreiben und die technische Grundlage auswählen. Dieses Dokument dient bis dahin als gemeinsame Konzeptbasis.
