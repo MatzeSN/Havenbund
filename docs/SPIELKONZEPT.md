@@ -13,6 +13,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
 - **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
 - **H-01 Feste Handelsrouten:** Der Spieler kann dauerhafte, wiederkehrend ausgeführte Handelsrouten zwischen Orten einrichten, sowohl per Schiff als auch über Land.
+- **H-02 Fuhrwerke und Pferdeversorgung:** Fuhrwerke benötigen Pferde, die fortlaufend Futter brauchen. Wagen werden aus Holz hergestellt. Eine spätere Verbesserung durch zusätzliche Metallteile ist eine vorgemerkte Option, noch keine verbindliche Ausbaustufe.
 - **E-01 Geführter Erststart:** Neue Spieler erhalten beim ersten Spielstart eine schrittweise geführte Einführung in Bedienung und Aufbau ihrer ersten Siedlung.
 - **E-02 Tutorial:** Das Spiel enthält ein spielbares Tutorial, das seine wesentlichen Mechaniken verständlich vermittelt, einschließlich Ressourcen, Produktion, Stadtentwicklung, weiterer Gründungen und Handelsrouten per Schiff und über Land.
 - **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
@@ -60,6 +61,7 @@ Langfristige Motivation soll aus neuen Entscheidungen entstehen, nicht allein au
 | Textilien | Flachs, Leinengarn, Leinen, Wolle, Wollgarn, Tuch | Flachs → Leinengarn → Leinen |
 | Metallhandwerk | Eisenerz, Holzkohle, Eisen, Werkzeuge, Nägel | Eisenerz + Holzkohle → Eisen → Werkzeuge/Nägel |
 | Tierische Erzeugnisse | Häute, Leder, Pelze, Wachs, Honig | Häute → Leder → Lederwaren |
+| Landwirtschaft und Landtransport | Heu, Hafer, Pferde, Holzwagen; optional Eisenbeschläge | Futterversorgung + Pferdehaltung; Holz → Wagen; Wagen + zugewiesene Pferde → einsatzfähiges Fuhrwerk |
 | Hafen und Schiffbau | Hanf, Seile, Segeltuch, Pech, Fässer | Hanf → Seile; Leinen → Segeltuch; Holz → Fässer |
 
 Vorgeschlagene Regeln:
@@ -104,7 +106,7 @@ Noch offen: genaue Verteilung, Anzahl und Ergiebigkeit der Vorkommen, Erschöpfu
 - Städte können sich spezialisieren, beispielsweise auf Landwirtschaft, Metallhandwerk oder Schiffbau.
 - Eine Übersicht zeigt Versorgung, Produktion und Transportbedarf aller eigenen Orte. Ein direkter Wechsel zwischen den Städten hält die Bedienung auf dem Handy übersichtlich.
 - Die erste Stadt bleibt bestehen, wenn eine weitere gegründet wird. Die Orte müssen nicht gleichzeitig aufsteigen.
-- Höchstzahl eigener Städte und Gründung auf derselben Insel bleiben offen. Schiff und Landweg sind als Transportarten bestätigt (H-01); konkrete Schiffs- und Landtransporttypen bleiben auszugestalten.
+- Höchstzahl eigener Städte und Gründung auf derselben Insel bleiben offen. Schiff und Landweg sind als Transportarten bestätigt (H-01); Fuhrwerke mit Pferden sind als Landtransport festgelegt (H-02). Konkrete Schiffs- und Fuhrwerkstypen bleiben auszugestalten.
 
 ### 3.3 Entwicklung von der Siedlung zur Hansestadt
 
@@ -137,7 +139,7 @@ Weitere Vorschläge:
 **Vorgeschlagene Ausgestaltung:**
 - Eine Route besitzt einen Namen, eine geordnete Liste von mindestens zwei Haltepunkten und zugewiesene Transportmittel.
 - Pro Halt legt der Spieler fest, welche Waren in welchen Zielmengen geladen beziehungsweise entladen werden. Rückfahrten können andere Waren mitnehmen; auch Rundrouten mit mehreren Orten sind möglich.
-- Schiffe verkehren zwischen erreichbaren Anlegestellen. Landtransporte, beispielsweise Fuhrwerke, benötigen eine durchgehende begehbare Landverbindung zwischen Umschlagstellen. Eine reine Landroute überquert keine offene Wasserfläche.
+- Schiffe verkehren zwischen erreichbaren Anlegestellen. Pferdegezogene Fuhrwerke benötigen eine durchgehende begehbare Landverbindung zwischen Umschlagstellen. Eine reine Landroute überquert keine offene Wasserfläche.
 - Laderaum, Reisezeit sowie Be- und Entladung begrenzen die tatsächlich lieferbare Menge. Waren befinden sich während der Fahrt im Transportmittel und stehen noch nicht am Ziel zur Verfügung.
 - Ein einstellbarer Mindestbestand am Ausgangsort schützt dessen Eigenversorgung.
 - Standardvorschlag bei Warenmangel: nur die verfügbare Menge oberhalb des Mindestbestands laden und weiterfahren. Warten auf eine gewünschte Ladung kann später als ausdrückliche Option ergänzt werden.
@@ -149,7 +151,36 @@ Weitere Vorschläge:
 
 **Beispiel:** Ein Schiff bringt Salz zur Fischersiedlung und nimmt dort Salzfisch mit zurück. Ein Fuhrwerk liefert Ziegel aus einer Lehmsiedlung zu einer über Land erreichbaren Stadt und bringt Nahrung zurück. Dies sind Beispiele, keine feste Kartenvorgabe.
 
-Noch offen: konkrete Transportmittel, Anschaffungs- und Betriebskosten, Wegebau zwischen Orten, Geschwindigkeiten, Kapazitäten, Freischaltung der Transportarten und mögliche Risiken. Schiff und Landweg sind bereits verbindlich; diese Details bleiben Vorschläge.
+Noch offen: konkrete Schiffs- und Fuhrwerkstypen, Anschaffungs- und Betriebskosten, Wegebau zwischen Orten, Geschwindigkeiten, Kapazitäten, Freischaltung der Transportarten und mögliche Risiken. Schiff und Landweg sind bereits verbindlich; diese Details bleiben Vorschläge.
+
+### 3.4.1 Fuhrwerke, Pferde und Landwirtschaft
+
+**Bestätigt (H-02):** Landtransport mit Fuhrwerken setzt einen aus Holz hergestellten Wagen und Pferde voraus. Pferde benötigen laufend Futter. Metallteile für eine spätere Wagenverbesserung bleiben eine Option.
+
+**Vorgeschlagene Gebäude und Warenketten:**
+
+| Betrieb | Aufgabe | Voraussetzungen beziehungsweise Ergebnis |
+|---|---|---|
+| Bauernhof mit Wiesen und Feldern | Futter erzeugen | Geeignete Flächen → Heu und Hafer als vorgeschlagene Futterwaren |
+| Pferdehof mit Stall und Weide | Pferde halten und züchten | Anfänglicher Zuchtbestand, Platz, Futter und Zeit → zusätzliche Pferde |
+| Stellmacherei | Wagen herstellen | Holz in Form von Brettern/Balken → einfacher Wagen |
+| Fuhrhof | Wagen und Pferde zu einem Gespann zusammenstellen, versorgen und Routen zuweisen | Freier Wagen + verfügbare Pferde + Futtervorrat → einsatzfähiges Fuhrwerk |
+| Schmiede, optional später | Wagenverbesserungen liefern | Eisen → Beschläge für einen verstärkten Wagen |
+
+Dies sind vereinfachte Spielrezepte, keine vollständige historische Stückliste. Weitere Materialien wie Geschirr, genaue Mengen und Werkzeuge sind noch festzulegen.
+
+**Vorgeschlagene Spielregeln:**
+- Ein Bauernhof kann anfangs die Futterwirtschaft übernehmen; Pferdehaltung und Zucht erhalten einen eigenen Pferdehof. Ob beide später als Ausbauten eines Hofs oder getrennte Gebäude erscheinen, bleibt offen.
+- Pferde werden gehalten und gezüchtet, nicht allein aus Futter erzeugt. Erste Tiere kommen aus einem Startbestand oder durch Einkauf; der Zugang muss vor der ersten notwendigen Landroute möglich sein.
+- Pferde bleiben als Tiere einem Gespann zugeordnet und werden nicht je Lieferung verbraucht. Dasselbe Pferd und derselbe Wagen können nicht gleichzeitig mehreren Fuhrwerken zugewiesen werden.
+- Futter wird fortlaufend für gehaltene Pferde benötigt, auch wenn sie gerade keiner aktiven Route zugewiesen sind. Eine pausierte Gesamtsimulation verbraucht kein Futter.
+- Vorschlag zur Vereinfachung: Heu und Hafer werden zunächst zu einer Spielware „Pferdefutter“ zusammengefasst. Ob getrennte Waren spielerisch mehr bringen, wird bei der Ausarbeitung entschieden.
+- Vor Abfahrt wird ausreichend Futter für den nächsten versorgbaren Abschnitt eingeladen. Der Vorrat gehört zum Fuhrwerk und wird unterwegs verbraucht; eine entfernte Stadt versorgt es nicht unsichtbar.
+- Fehlt Futter, erscheint frühzeitig eine Warnung. Neue Fahrten warten am Fuhrhof, bis die Versorgung wiederhergestellt ist. Behandlung unerwarteter Verzögerungen unterwegs und Versorgung ruhender Tiere bei Mangel bleiben auszuarbeiten; sofortiger Tierverlust ist nicht als Standard vorgesehen.
+- Futter kann lokal erzeugt oder tatsächlich angeliefert werden. Die Standortregeln gelten auch für Wiesen und Anbauflächen; nicht jede Stadt braucht einen eigenen Bauernhof.
+- Die erste Landroute darf nicht von einer Futterlieferung abhängen, die ausschließlich genau diese noch nicht einsatzfähige Route leisten könnte. Geeigneter Startstandort, Startvorrat oder vorher erreichbarer Handel löst diesen Einstieg.
+- Ein später metallverstärkter Wagen könnte mehr Fracht tragen oder geringeren Verschleiß haben. Nutzen, Reparaturen, zusätzliche Zugpferde und Freischaltung sind noch offen.
+- Materialkosten für den Wagenbau und der laufende Futterbedarf sind getrennt sichtbar. Eine größere Transportflotte verlangt entsprechend mehr Pferde und Futter.
 
 ### 3.5 Spätere Abnahme der bestätigten Anforderungen
 
@@ -170,7 +201,13 @@ Noch offen: konkrete Transportmittel, Anschaffungs- und Betriebskosten, Wegebau 
 14. **H-01, vorgeschlagene Ausgestaltung:** Eine unterbrochene Landverbindung beziehungsweise ein unerreichbarer Hafen wird angezeigt; Transporte werden nicht ohne gültigen Weg ausgeführt.
 15. **H-01, vorgeschlagene Ausgestaltung:** Pausieren, Fortsetzen und Speichern/Laden erhält Routenregeln, Transportpositionen und Ladung konsistent.
 
-Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
+16. **H-02:** Wagenbau benötigt Holz; ein einsatzfähiges Fuhrwerk benötigt zugewiesene Pferde. Ohne Pferde fährt der Wagen nicht.
+17. **H-02:** Pferde verbrauchen fortlaufend Futter; der Bedarf wächst mit der Zahl der zu versorgenden Tiere.
+18. **H-02, vorgeschlagene Ausgestaltung:** Tiere und Wagen können nicht doppelt zugewiesen werden. Speichern/Laden erhält Zuordnung, Futterbestände und Reisevorräte.
+19. **H-02, vorgeschlagene Ausgestaltung:** Fehlendes Futter verhindert neue Abfahrten mit verständlichem Hinweis. Nach tatsächlicher Nachlieferung kann die Route fortgesetzt werden.
+20. **H-02, vorgeschlagene Ausgestaltung:** Die erste Landroute ist ohne zirkuläre Abhängigkeit bei Pferde- und Futterbeschaffung erreichbar.
+
+Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln, Pferdehaltung und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
 ## 4. Spielerlebnis am Handy
 
@@ -201,7 +238,8 @@ Tutorial und geführter Erststart sind verbindlich (E-01, E-02). Die weiteren Be
 | Zum Dorf wachsen | Aufstiegsbedingungen prüfen und den ersten Ortsaufstieg auslösen | Entwicklung der Siedlung verstehen |
 | Einen weiteren Ort gründen | Einen Standort mit ergänzenden Ressourcen wählen und versorgen | Spezialisierung und getrennte Stadtbestände verstehen |
 | Eine Schiffsroute einrichten | Haltepunkte, Waren und ein Schiff zuweisen; eine Lieferung verfolgen | Wiederkehrenden Seetransport einrichten |
-| Eine Landroute einrichten | Erreichbare Orte und Landtransport zuweisen; eine Lieferung verfolgen | Landverbindungen und Transportbedarf verstehen |
+| Fuhrwerke vorbereiten | Futterversorgung sichern, Pferde beschaffen und einen Holzwagen bauen | Herstellung und laufende Versorgung des Landtransports verstehen |
+| Eine Landroute einrichten | Erreichbare Orte und ein versorgtes Fuhrwerk zuweisen; eine Lieferung verfolgen | Landverbindungen, Futtervorrat und Transportbedarf verstehen |
 
 Die genaue Reihenfolge der späteren Kapitel folgt den noch festzulegenden Freischaltungen. Das erste Kapitel verlangt nur Funktionen des ersten Prototyps; es darf nicht an noch fehlender Stadtentwicklung oder Seefahrt hängen bleiben.
 
@@ -277,7 +315,7 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 |---|---|---|
 | 1 | Kleine Insel, Grundversorgung, geführter Erststart und erstes Tutorialkapitel | Neue Spieler lernen Bauen und Warenflüsse direkt am Handy |
 | 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
-| 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
+| 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, Fuhrwerkbau und Pferdeversorgung, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
 
