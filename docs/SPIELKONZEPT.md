@@ -12,6 +12,7 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
 - **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
+- **H-01 Feste Handelsrouten:** Der Spieler kann dauerhafte, wiederkehrend ausgeführte Handelsrouten zwischen Orten einrichten, sowohl per Schiff als auch über Land.
 - **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
 - **S-02 Stadtentwicklung:** Jeder neu gegründete Ort beginnt als Siedlung und entwickelt sich über das Dorf und weitere Stufen bis zur Hansestadt.
 
@@ -101,7 +102,7 @@ Noch offen: genaue Verteilung, Anzahl und Ergiebigkeit der Vorkommen, Erschöpfu
 - Städte können sich spezialisieren, beispielsweise auf Landwirtschaft, Metallhandwerk oder Schiffbau.
 - Eine Übersicht zeigt Versorgung, Produktion und Transportbedarf aller eigenen Orte. Ein direkter Wechsel zwischen den Städten hält die Bedienung auf dem Handy übersichtlich.
 - Die erste Stadt bleibt bestehen, wenn eine weitere gegründet wird. Die Orte müssen nicht gleichzeitig aufsteigen.
-- Höchstzahl eigener Städte, Gründung auf derselben Insel und genaue Transportmittel bleiben offen.
+- Höchstzahl eigener Städte und Gründung auf derselben Insel bleiben offen. Schiff und Landweg sind als Transportarten bestätigt (H-01); konkrete Schiffs- und Landtransporttypen bleiben auszugestalten.
 
 ### 3.3 Entwicklung von der Siedlung zur Hansestadt
 
@@ -127,7 +128,28 @@ Weitere Vorschläge:
 - Ein Dorf darf als spezialisierter Versorgungsort bestehen bleiben. Nicht jeder eigene Ort muss zur Hansestadt wachsen.
 - Bevölkerungsgrenzen, Kosten, Dauer der erforderlichen Versorgung sowie Folgen späterer Versorgungsprobleme bleiben offen.
 
-### 3.4 Spätere Abnahme der bestätigten Anforderungen
+### 3.4 Feste Handelsrouten per Schiff und über Land
+
+**Bestätigt (H-01):** Der Spieler richtet feste Handelsrouten ein, die wiederkehrend Waren zwischen Orten transportieren. Sowohl Schiffsverbindungen als auch Landverbindungen müssen möglich sein. Einzelne Fahrten müssen nach Einrichtung der Route nicht erneut manuell beauftragt werden.
+
+**Vorgeschlagene Ausgestaltung:**
+- Eine Route besitzt einen Namen, eine geordnete Liste von mindestens zwei Haltepunkten und zugewiesene Transportmittel.
+- Pro Halt legt der Spieler fest, welche Waren in welchen Zielmengen geladen beziehungsweise entladen werden. Rückfahrten können andere Waren mitnehmen; auch Rundrouten mit mehreren Orten sind möglich.
+- Schiffe verkehren zwischen erreichbaren Anlegestellen. Landtransporte, beispielsweise Fuhrwerke, benötigen eine durchgehende begehbare Landverbindung zwischen Umschlagstellen. Eine reine Landroute überquert keine offene Wasserfläche.
+- Laderaum, Reisezeit sowie Be- und Entladung begrenzen die tatsächlich lieferbare Menge. Waren befinden sich während der Fahrt im Transportmittel und stehen noch nicht am Ziel zur Verfügung.
+- Ein einstellbarer Mindestbestand am Ausgangsort schützt dessen Eigenversorgung.
+- Standardvorschlag bei Warenmangel: nur die verfügbare Menge oberhalb des Mindestbestands laden und weiterfahren. Warten auf eine gewünschte Ladung kann später als ausdrückliche Option ergänzt werden.
+- Bei vollem Ziellager bleibt nicht entladbare Ware an Bord beziehungsweise auf dem Wagen; die Route fährt weiter und zeigt den Engpass an. Ware verschwindet nicht und wird nicht doppelt gebucht.
+- Routen lassen sich bearbeiten, pausieren, fortsetzen und beenden. Bereits transportierte Ladung bleibt bei Änderungen erhalten; sichere Übergänge für laufende Fahrten sind vor Implementierung festzulegen.
+- Eine Übersicht zeigt Verlauf, Transportmittel, Ladung, Liefermengen und Störungen. Unterbrochene Wege oder nicht erreichbare Haltepunkte erzeugen eine verständliche Meldung.
+- Eigene Orte tauschen Waren über diese Routen aus. Bei fremden Handelspartnern wären zusätzlich Kauf- und Verkaufsregeln sowie Preise zu berücksichtigen.
+- Seeverkehr und Landverkehr können über ein gemeinsames Lager miteinander verbunden werden. Automatische Umladung und gemischte Routen innerhalb eines einzigen Routenauftrags sind noch nicht festgelegt.
+
+**Beispiel:** Ein Schiff bringt Salz zur Fischersiedlung und nimmt dort Salzfisch mit zurück. Ein Fuhrwerk liefert Ziegel aus einer Lehmsiedlung zu einer über Land erreichbaren Stadt und bringt Nahrung zurück. Dies sind Beispiele, keine feste Kartenvorgabe.
+
+Noch offen: konkrete Transportmittel, Anschaffungs- und Betriebskosten, Wegebau zwischen Orten, Geschwindigkeiten, Kapazitäten, Freischaltung der Transportarten und mögliche Risiken. Schiff und Landweg sind bereits verbindlich; diese Details bleiben Vorschläge.
+
+### 3.5 Spätere Abnahme der bestätigten Anforderungen
 
 1. **W-01:** Rohstoffe können gewonnen, über definierte Rezepte verarbeitet und als Rohstoff, Zwischenprodukt oder fertige Ware gehandelt werden.
 2. **W-01:** Produktion und Handel ziehen erforderliche Waren genau einmal ab und schreiben Ergebnisse beziehungsweise Lieferungen genau einmal gut.
@@ -140,7 +162,13 @@ Weitere Vorschläge:
 9. **W-02, vorgeschlagene Ausgestaltung:** Ein Ort ohne Salzvorkommen kann kein Salz gewinnen, aber angeliefertes Salz verarbeiten. Ein Stadtaufstieg fügt kein Salzvorkommen hinzu.
 10. **W-02, vorgeschlagene Ausgestaltung:** Die Versorgung zwischen spezialisierten Orten funktioniert; fehlende lokale Rohstoffe verhindern bei ausreichenden Einfuhren nicht grundsätzlich den Stadtaufstieg.
 
-Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transport und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
+11. **H-01:** Eine eingerichtete Schiffsroute führt mindestens zwei vollständige Umläufe aus, ohne dass einzelne Fahrten erneut beauftragt werden.
+12. **H-01:** Eine eingerichtete Landroute führt ebenfalls mindestens zwei vollständige Umläufe aus.
+13. **H-01, vorgeschlagene Ausgestaltung:** Laderegeln, Rückfracht, Transportkapazität und Mindestbestände werden eingehalten. Fehlende Ware und volle Ziellager erzeugen weder negative Bestände noch Warenverlust oder Verdopplung.
+14. **H-01, vorgeschlagene Ausgestaltung:** Eine unterbrochene Landverbindung beziehungsweise ein unerreichbarer Hafen wird angezeigt; Transporte werden nicht ohne gültigen Weg ausgeführt.
+15. **H-01, vorgeschlagene Ausgestaltung:** Pausieren, Fortsetzen und Speichern/Laden erhält Routenregeln, Transportpositionen und Ladung konsistent.
+
+Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
 ## 4. Vorschlag für das Spielerlebnis am Handy
 
@@ -172,7 +200,7 @@ Auf einer kleinen Insel einen verständlichen und befriedigenden Versorgungskrei
 - Pause, lokale Speicherung und Wiederherstellung des Spielstands.
 - Vorläufiges Abschlussziel: eine kleine, versorgte Siedlung aufbauen. Konkrete Einwohnerzahl und Dauer werden durch Spieltests bestimmt.
 
-Noch nicht Teil dieser Stufe: mehrere eigene Orte, vollständiger Stadtaufstieg bis zur Hansestadt, mehrere Inseln, Handelsrouten, Diplomatie, Krieg, mehrere Wohnstufen, Onlinefunktionen und Monetarisierung. Mehrere eigene Orte und der vollständige Stadtaufstieg bleiben verbindliche Ziele des Gesamtspiels und werden in späteren Ausbaustufen umgesetzt.
+Noch nicht Teil dieser Stufe: mehrere eigene Orte, vollständiger Stadtaufstieg bis zur Hansestadt, mehrere Inseln, Handelsrouten, Diplomatie, Krieg, mehrere Wohnstufen, Onlinefunktionen und Monetarisierung. Mehrere eigene Orte, feste Schiffs- und Landhandelsrouten und der vollständige Stadtaufstieg bleiben verbindliche Ziele des Gesamtspiels und werden in späteren Ausbaustufen umgesetzt.
 
 ### Manuelle Abnahme des späteren Prototyps
 
@@ -195,7 +223,7 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 |---|---|---|
 | 1 | Kleine Insel und Grundversorgung | Bauen und Warenflüsse machen auf dem Handy Spaß |
 | 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
-| 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, Koggen und Handelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
+| 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
 
