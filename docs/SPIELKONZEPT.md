@@ -13,6 +13,8 @@ Stand: 25.10.2026. Konzeptphase; noch keine spielbare Anwendung.
 - **W-01 Zeittypische Wirtschaft:** Rohstoffe und Materialien der Hansezeit müssen gewonnen beziehungsweise hergestellt und gehandelt werden können.
 - **W-02 Standortgebundene Ressourcen:** Städte und Siedlungen haben unterschiedliche lokale Ressourcenvorkommen. Beispielsweise bietet ein Ort Fisch, ein anderer Salz und ein dritter Lehm. Nicht jeder Ort kann sämtliche Rohstoffe selbst gewinnen.
 - **H-01 Feste Handelsrouten:** Der Spieler kann dauerhafte, wiederkehrend ausgeführte Handelsrouten zwischen Orten einrichten, sowohl per Schiff als auch über Land.
+- **E-01 Geführter Erststart:** Neue Spieler erhalten beim ersten Spielstart eine schrittweise geführte Einführung in Bedienung und Aufbau ihrer ersten Siedlung.
+- **E-02 Tutorial:** Das Spiel enthält ein spielbares Tutorial, das seine wesentlichen Mechaniken verständlich vermittelt, einschließlich Ressourcen, Produktion, Stadtentwicklung, weiterer Gründungen und Handelsrouten per Schiff und über Land.
 - **S-01 Mehrere eigene Städte:** Der Spieler muss innerhalb einer Partie mehrere eigene Orte gründen und entwickeln können.
 - **S-02 Stadtentwicklung:** Jeder neu gegründete Ort beginnt als Siedlung und entwickelt sich über das Dorf und weitere Stufen bis zur Hansestadt.
 
@@ -170,7 +172,9 @@ Noch offen: konkrete Transportmittel, Anschaffungs- und Betriebskosten, Wegebau 
 
 Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Beständen, Transportregeln und Aufstiegsbedingungen beziehen sich auf die vorgeschlagene Ausgestaltung.
 
-## 4. Vorschlag für das Spielerlebnis am Handy
+## 4. Spielerlebnis am Handy
+
+Tutorial und geführter Erststart sind verbindlich (E-01, E-02). Die weiteren Bedienungsdetails und die folgende Ausgestaltung sind Vorschläge.
 
 - Touchbedienung mit großen Bedienelementen, Bauvorschau und klarer Bestätigung.
 - Karte verschieben und zoomen, ohne versehentlich Gebäude zu setzen.
@@ -180,6 +184,54 @@ Status: Alle Prüfungen sind **offen**. Die Detailprüfungen zu getrennten Best�
 - Vorschlag: keine Energiepunkte, keine bezahlte Bauzeitverkürzung und keine verpflichtenden täglichen Besuche.
 - Offline-Spiel und Verhalten bei geschlossener App sind noch festzulegen. Eine pausierende Welt wäre der Ausgangsvorschlag.
 
+### 4.1 Geführter Erststart und Tutorial
+
+**Bestätigt (E-01, E-02):** Havenbund benötigt sowohl einen geführten ersten Start als auch ein Tutorial. Spieler sollen die Bedienung und wirtschaftlichen Zusammenhänge durch nachvollziehbare Schritte im Spiel lernen.
+
+**Vorgeschlagener Ablauf:** Der Erststart geht direkt in das erste Tutorialkapitel über. Weitere Kapitel erscheinen, sobald die passenden Spielmechaniken verfügbar werden.
+
+| Abschnitt | Praktische Aufgabe | Lernziel |
+|---|---|---|
+| Ankommen | Erste Siedlung benennen, Karte bewegen, zoomen und ein Gebäude auswählen | Orientierung und Touchbedienung |
+| Standort verstehen | Ressourcenprofil, Startvorräte und Lager ansehen | Lokale Vorkommen und verfügbare Waren unterscheiden |
+| Erste Produktion | Holzfäller und Sägewerk bauen und mit Wegen verbinden | Rohstoff, Verarbeitung und Transport verstehen |
+| Menschen versorgen | Wohnraum und Fischversorgung aufbauen | Bedürfnisse, Verbrauch und Versorgung erkennen |
+| Engpass beheben | Einen fehlenden Weg oder Rohstoff erkennen und die Ursache beseitigen | Gebäudeinformationen und Hinweise nutzen |
+| Selbstständig weiterspielen | Speichern, pausieren und die nächsten Ziele ansehen | Sicherer Übergang zum freien Spiel |
+| Zum Dorf wachsen | Aufstiegsbedingungen prüfen und den ersten Ortsaufstieg auslösen | Entwicklung der Siedlung verstehen |
+| Einen weiteren Ort gründen | Einen Standort mit ergänzenden Ressourcen wählen und versorgen | Spezialisierung und getrennte Stadtbestände verstehen |
+| Eine Schiffsroute einrichten | Haltepunkte, Waren und ein Schiff zuweisen; eine Lieferung verfolgen | Wiederkehrenden Seetransport einrichten |
+| Eine Landroute einrichten | Erreichbare Orte und Landtransport zuweisen; eine Lieferung verfolgen | Landverbindungen und Transportbedarf verstehen |
+
+Die genaue Reihenfolge der späteren Kapitel folgt den noch festzulegenden Freischaltungen. Das erste Kapitel verlangt nur Funktionen des ersten Prototyps; es darf nicht an noch fehlender Stadtentwicklung oder Seefahrt hängen bleiben.
+
+**Vorgeschlagene Regeln für eine angenehme Einführung:**
+- Kurze Erklärungen begleiten konkrete Aufgaben. Jeweils ein klarer nächster Schritt und passende Hervorhebungen führen durch die Bedienung.
+- Schritte erklären den Zweck einer Handlung, beispielsweise warum ein Sägewerk Baumstämme und einen verbundenen Weg braucht.
+- Aufgaben erkennen den tatsächlichen Spielzustand. Ein bereits gebauter und angeschlossener Betrieb zählt auch dann, wenn er vor dem Hinweis errichtet wurde.
+- Hinweise verdecken weder die benötigte Schaltfläche noch die relevante Baufläche; Texte bleiben auf dem Handy lesbar.
+- Keine zeitkritischen Aufgaben. Während längerer Erklärungen kann die Simulation pausieren.
+- Das Tutorial lässt sich überspringen, unterbrechen und fortsetzen. Der Fortschritt wird mit dem Spielstand gespeichert; ein erneuter App-Start startet die Einführung nicht ungefragt von vorn.
+- Kapitel und Erklärungen bleiben über ein Hilfemenü erreichbar. Ein vollständiger Neustart des Tutorials verwendet einen separaten Spielstand und überschreibt keine bestehende Stadt.
+- Fehler beim Bauen dürfen die Einführung nicht dauerhaft blockieren. Hinweise und ein geeigneter Wiederherstellungsweg helfen weiter; konkrete Regeln für Rückbau und Materialersatz bleiben festzulegen.
+- Nach dem ersten Kapitel geht die entstandene Siedlung ohne erzwungenen Neustart ins freie Spiel über.
+- Spätere Kapitel vermitteln beide Transportarten und die Entwicklung bis zur Hansestadt schrittweise; sie müssen nicht in einer einzigen langen Einstiegssitzung abgeschlossen werden.
+
+Noch offen: Begleitfigur und Erzählton, genaue Texte, Kapitelumfang, optionale Sprachausgabe und Umsetzung der Hilfeseiten.
+
+### 4.2 Spätere Abnahme der Einführung
+
+1. **E-01:** Beim ersten Start ist der geführte Einstieg ohne Vorwissen auffindbar und führt bis zu einer versorgten, spielbaren ersten Siedlung.
+2. **E-02:** Tutorialaufgaben vermitteln Bedienung, Ressourcen, Produktion, Versorgung, Stadtaufstieg, weitere Gründungen sowie Schiffs- und Landrouten.
+3. **Vorgeschlagene Ausgestaltung:** Schon erfüllte Aufgaben werden erkannt; abweichende zulässige Baupositionen blockieren das Tutorial nicht.
+4. **Vorgeschlagene Ausgestaltung:** Unterbrechen und Speichern/Laden erhält Tutorial- und Spielzustand konsistent.
+5. **Vorgeschlagene Ausgestaltung:** Überspringen erlaubt freies Spielen; erneutes Aufrufen von Erklärungen und ein separater Tutorialneustart verändern keinen bestehenden Spielstand.
+6. **Vorgeschlagene Ausgestaltung:** Hinweise sind auf einem echten Handy lesbar und verdecken keine für den aktuellen Schritt benötigten Bedienelemente.
+7. **Vorgeschlagene Ausgestaltung:** Einsteiger können nach dem ersten Kapitel selbst eine Produktionsstörung erkennen und ihren nächsten Ausbau planen.
+8. **Vorgeschlagene Ausgestaltung:** Fehlende Rohstoffe, unterbrochene Wege oder vorzeitig gebaute Gebäude verursachen keine unauflösbare Tutorialblockade.
+
+Status: Alle Prüfungen sind **offen**, da noch keine Implementierung vorliegt.
+
 ## 5. Erste spielbare Ausbaustufe – Vorschlag
 
 ### Ziel
@@ -188,6 +240,7 @@ Auf einer kleinen Insel einen verständlichen und befriedigenden Versorgungskrei
 
 ### Umfang
 
+- Geführter Erststart mit erstem spielbaren Tutorialkapitel für Bedienung, Holzproduktion, Wege, Fischversorgung und Speichern (E-01, erster Teil von E-02).
 - Eine vorbereitete Insel mit Wald, Küste, Bauflächen und einem Startanleger mit Lager.
 - Ein begrenzter Startvorrat ermöglicht die ersten Gebäude ohne wirtschaftlichen Stillstand.
 - Gebäude: Wohnhaus, Holzfäller, Sägewerk und Fischerhütte; dazu Wege und der Startanleger.
@@ -214,6 +267,7 @@ Noch nicht Teil dieser Stufe: mehrere eigene Orte, vollständiger Stadtaufstieg 
 8. Pausieren hält die Simulation an. Speichern und Laden erhält Gebäude, Bestände und laufende Transporte konsistent.
 9. Das Abschlussziel ist ohne versteckte Informationen und ohne festgefahrene Startwirtschaft erreichbar.
 10. Ein Spieltest bewertet, ob Engpässe verständlich sind und der Ausbau Lust auf eine weitere Verbesserung macht.
+11. Der geführte Erststart führt durch die implementierten Grundfunktionen. Das erste Tutorialkapitel lässt sich abschließen, ohne Funktionen späterer Ausbaustufen vorauszusetzen.
 
 Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorliegt. Später ergänzen automatisierte Tests insbesondere Warenbilanz, Baukosten, Wegverbindungen und Speicherung.
 
@@ -221,13 +275,13 @@ Status: Alle Abnahmepunkte sind **offen**, da noch keine Implementierung vorlieg
 
 | Stufe | Schwerpunkt | Zu prüfender Nutzen |
 |---|---|---|
-| 1 | Kleine Insel und Grundversorgung | Bauen und Warenflüsse machen auf dem Handy Spaß |
+| 1 | Kleine Insel, Grundversorgung, geführter Erststart und erstes Tutorialkapitel | Neue Spieler lernen Bauen und Warenflüsse direkt am Handy |
 | 2 | Weitere zeittypische Waren, Handwerk und erste Ortsaufstiege | Der Weg von der Siedlung über das Dorf wird spielbar |
 | 3 | Weitere eigene Orte mit unterschiedlichen Ressourcen gründen, feste Schiffs- und Landhandelsrouten | Standortgebundene Produktion und Versorgung zwischen Städten greifen ineinander |
 | 4 | Vollständige Stadtentwicklung bis zur Hansestadt, Privilegien und gemeinsame Vorhaben | Jeder eigene Ort kann den vollständigen Entwicklungsweg durchlaufen |
 | 5 | Unterschiedliche Karten, Szenarien und Langzeitbalance | Mehrere Partien bleiben abwechslungsreich |
 
-Jede Stufe soll einzeln spielbar sein. Der Umfang wird nach Spieltests angepasst.
+Jede Stufe soll einzeln spielbar sein. Neue Mechaniken erhalten passende Tutorialkapitel und Hilfen, insbesondere Ortsaufstiege, weitere Gründungen sowie beide Arten von Handelsrouten. Der Umfang wird nach Spieltests angepasst.
 
 ## 7. Offene Entscheidungen
 
